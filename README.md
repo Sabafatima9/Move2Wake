@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:F59E0B&height=220&section=header&text=DanceAlarm%20%20%F0%9F%92%83&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20alarm%20that%20won't%20stop%20until%20you%20dance%20%7C%20MediaPipe%20%7C%20OpenCV%20%7C%20Tkinter&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:F59E0B&height=220&section=header&text=Move2Wake%20%20%F0%9F%92%83&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20alarm%20that%20won't%20stop%20until%20you%20dance%20%7C%20MediaPipe%20%7C%20OpenCV%20%7C%20Tkinter&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=EF4444&center=true&vCenter=true&width=700&lines=%F0%9F%92%A4+Alarm+Rings+Until+You+Dance+for+10+Seconds!;%F0%9F%A6%B4+Real-Time+Body+Tracking+with+MediaPipe+Pose;%F0%9F%95%90+Set+Alarms+from+a+Tkinter+Dashboard;%F0%9F%9B%8C%EF%B8%8F+No+Button+Can+Snooze+This+-%20Only+Movement" alt="Typing SVG" />
 
