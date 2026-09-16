@@ -16,7 +16,7 @@
 
 ## 🎯 Overview
 
-**DanceAlarm** is a desktop alarm application with a twist — **the alarm keeps ringing until you physically get up and dance in front of your webcam for 10 continuous seconds**. There is no snooze button you can reach half-asleep: the camera tracks your body with MediaPipe Pose, measures real movement, and only silences the ringing once your dance meter is full. It ships with both a **CLI version** (quick one-shot alarms) and a **Tkinter dashboard** (manage multiple saved alarms).
+**Move2Wake** is a desktop alarm application with a twist — **the alarm keeps ringing until you physically get up and dance in front of your webcam for 10 continuous seconds**. There is no snooze button you can reach half-asleep: the camera tracks your body with MediaPipe Pose, measures real movement, and only silences the ringing once your dance meter is full. It ships with both a **CLI version** (quick one-shot alarms) and a **Tkinter dashboard** (manage multiple saved alarms).
 
 ---
 
@@ -71,8 +71,8 @@
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/<your-username>/DanceAlarm.git
-cd DanceAlarm
+git clone https://github.com/<your-username>/Move2Wake.git
+cd Move2Wake
 ```
 
 **2. Install dependencies**
@@ -146,7 +146,7 @@ alarm_project/
 
 <div align="center">
 
-### ⭐ Star this repo if DanceAlarm finally got you out of bed!
+### ⭐ Star this repo if Move2Wake finally got you out of bed!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:EF4444&height=120&section=footer"/>
 
